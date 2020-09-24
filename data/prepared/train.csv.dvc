@@ -1,0 +1,3 @@
+outs:
+- md5: cf52ced0bced6be761bfd69029d0c482
+  path: train.csv
